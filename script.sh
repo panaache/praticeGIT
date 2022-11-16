@@ -8,3 +8,8 @@ echo $i
 done
 
 
+if i>10
+	for $i echo null
+fi
+
+
